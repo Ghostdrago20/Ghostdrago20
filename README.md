@@ -17,6 +17,7 @@ Developer, entrepreneur, freelance programmer with over 3 years of experience, a
 </p>
 
 ### Skills
+
       <p><b>Everything You Need to Know About Git</b></p>
       <p>17K views • 3 weeks ago</p>
     </td>
