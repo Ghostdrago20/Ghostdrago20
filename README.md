@@ -13,7 +13,7 @@ Trabajo como Analista de soporte tecnico con mas de 5 años de experiencia.
 ### Skills
 <p align="center">
  Mantenimiento General,
-,Manteimineto Preventivo y Correctivo
+,Manteimineto Preventivo y Correctivo,
 ,Conocimineto en software libre
 ,Trabajo en Equipo
 </p>
