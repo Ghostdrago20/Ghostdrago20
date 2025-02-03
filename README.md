@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Imagenes/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
+<img src="edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
 
 <h1 align="center">Hola 👋, soy Jose Calvette✨</h1>
 
@@ -12,8 +12,8 @@ Trabajo como Analista de soporte tecnico con mas de 5 años de experiencia.
 
 ### Skills
 <p align="center">
-Mantenimiento General
-Manteimineto Preventivo y Correctivo
-Conocimineto en software libre
+Mantenimiento General,
+Manteimineto Preventivo y Correctivo,
+Conocimineto en software libre,
 Trabajo en Equipo
 </p>
