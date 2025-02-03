@@ -6,20 +6,14 @@
 <br>
 <h2 align="left">Sobre mí 😃</h2>
 <p align="left">
-🎓 SYSTEMS ENGINEER STUDENT (+2 Years)  
-Passionate about technology and solving problems through code.
-
-🎥 CONTENT CREATOR  
-I share my knowledge 📚 on social media, teaching based on extensive study 😵 and hands-on programming experience.
-
-📝 Roles in the field  
-Developer, entrepreneur, freelance programmer with over 3 years of experience, and who knows what the future holds ☺️.
+🎓 Estudainate de ING.Sisteams.
+Trabajo como Analista de soporte tecnico con mas de 5 años de experiencia.
 </p>
 
 ### Skills
-
-      <p><b>Everything You Need to Know About Git</b></p>
-      <p>17K views • 3 weeks ago</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+Mantenimiento General
+Manteimineto Preventivo y Correctivo
+Conocimineto en software libre
+Trabajo en Equipo
+</p>
