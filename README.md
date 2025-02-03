@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
+<img src="" width="100%">
 
 <h1 align="center">Hola 👋, soy Jose Calvette✨</h1>
 
